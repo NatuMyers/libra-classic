@@ -16,5 +16,6 @@ Libra Classic implements a decentralized, programmable database which provides a
 * Bitcoin Script smart contracts
 * Full Ripple gateway compatibility
 * Haskell rewrite of core libraries
+* ANYONE CAN RUN A NODE
 
 Please contact us on our secret Telegram group. Only anonymous developers accepted.
